@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<bookstore>
+<book>
+<name>Subtal art</name>
+<author>Mark mansoor</author>
+<price>299</price>
+<publisher>NYtimes</publisher>
+</book>
+<book>
+<name>psychology of Money</name>
+<author>salvin</author>
+<price>899</price>
+<publisher>Atul publisher</publisher>
+</book>
+<book>
+<name>POWER</name>
+<author>dakota Johnson</author>
+<price>799</price>
+<publisher>navneet</publisher>
+</book>
+<book>
+<name>Grace of god</name>
+<author>Millin gaba</author>
+<price>350</price>
+<publisher>gala publisher</publisher>
+</book>
+</bookstore>
